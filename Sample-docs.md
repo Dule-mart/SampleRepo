@@ -9,6 +9,7 @@ This workshop have the following persons in attended:
 3. Victoria
 4. Aishat
 5. Jacinta
+6. Gift
 
 The following tools are used for the workshop
 
